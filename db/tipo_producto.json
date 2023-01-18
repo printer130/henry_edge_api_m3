@@ -1,0 +1,11 @@
+[{"IdTipoProducto":1, "TipoProducto":"Audio"},
+ {"IdTipoProducto":2, "TipoProducto":"Bases"},
+ {"IdTipoProducto":3, "TipoProducto":"Estucheria"},
+ {"IdTipoProducto":4, "TipoProducto":"Gabinetes"},
+ {"IdTipoProducto":5, "TipoProducto":"Gaming"},
+ {"IdTipoProducto":6, "TipoProducto":"Grabacion"},
+ {"IdTipoProducto":7, "TipoProducto":"Impresi\u00f3n"},
+ {"IdTipoProducto":8, "TipoProducto":"Informatica"},
+ {"IdTipoProducto":9, "TipoProducto":"Limpieza"},
+ {"IdTipoProducto":10, "TipoProducto":"Sin Dato"},
+ {"IdTipoProducto":11, "TipoProducto":"Varios"}]

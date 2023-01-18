@@ -1,0 +1,5 @@
+[{"IdCargo":1, "Cargo":"Administrativo"},
+ {"IdCargo":2, "Cargo":"Aux. Administrativo"},
+ {"IdCargo":3, "Cargo":"Aux. T\u00e9cnico"},
+ {"IdCargo":4, "Cargo":"T\u00e9cnico"},
+ {"IdCargo":5, "Cargo":"Vendedor"}]

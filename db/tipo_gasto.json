@@ -1,0 +1,4 @@
+[{"IdTipoGasto":1, "Tipo_Gasto":"Alquiler", "Monto_Aproximado":1000.0},
+ {"IdTipoGasto":2, "Tipo_Gasto":"Servicios", "Monto_Aproximado":300.0},
+ {"IdTipoGasto":3, "Tipo_Gasto":"Impuestos", "Monto_Aproximado":100.0},
+ {"IdTipoGasto":4, "Tipo_Gasto":"Sueldos y Jornales", "Monto_Aproximado":1000.0}]
