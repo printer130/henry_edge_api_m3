@@ -1,4 +1,4 @@
-import venta from '../db/venta.json'
+// import venta from '../db/venta.json'
 import tipo_producto from '../db/tipo_producto.json'
 import tipo_gasto from '../db/tipo_gasto.json'
 import sucursal from '../db/sucursal.json'
@@ -20,8 +20,6 @@ import { Hono } from 'hono'
 import { cors } from 'hono/cors'
 import { serveStatic } from 'hono/serve-static'
 
-
-
 const app = new Hono()
 app.use(cors({
 	origin: '*'
@@ -29,10 +27,10 @@ app.use(cors({
 
 app.get('/', ctx => {
 	return ctx.json([
-		{
-			endpoint: '/venta',
-			description: 'Returns venta table.',
-		},
+		/* 	{
+				endpoint: '/venta',
+				description: 'Returns venta table.',
+			}, */
 		{
 			endpoint: '/tipo_producto',
 			description: 'Returns tipo_producto table.',
@@ -104,7 +102,7 @@ app.get('/', ctx => {
 	])
 })
 
-app.get('/venta', ctx => ctx.json(venta))
+//app.get('/venta', ctx => ctx.json(venta))
 
 app.get('/tipo_producto', ctx => ctx.json(tipo_producto))
 
